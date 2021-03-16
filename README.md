@@ -2,7 +2,9 @@
 My name is **Mateus Maranhão** and I'm studying **Computer Engineering** at UNISO (Universidade de Sorocaba).
 
 👨‍💻 I'm currently working on **personal projects** to improve my skills;
+
 📖 I'm currently learning **web development**;
+
 🥰 I'm passionate about tech, programming, UI design, music and coffee.
 
 Reach me out 
