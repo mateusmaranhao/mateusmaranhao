@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hello World 👋
+My name is **Mateus Maranhão** and I'm studying **Computer Engineering** at UNISO (Universidade de Sorocaba).
 
-<!--
-**mateusmaranhao/mateusmaranhao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 I'm currently working on **personal projects** to improve my skills;
+📖 I'm currently learning **web development**;
+🥰 I'm passionate about tech, programming, UI design, music and coffee.
 
-Here are some ideas to get you started:
+Reach me out 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://www.linkedin.com/in/mateus-maranhao/">
+	<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+ <a href="https://t.me/mateusmaranhao">
+	<img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+</a>
+ <a href="https://www.instagram.com/mateuscesar_/">
+	<img alt="Instagram" src="https://img.shields.io/badge/Instagram%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>
+</a>
