@@ -15,6 +15,6 @@ Reach me out
  <a href="https://t.me/mateusmaranhao">
 	<img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
- <a href="https://www.instagram.com/mateuscesar_/">
+ <a href="https://www.instagram.com/mateus.code/">
 	<img alt="Instagram" src="https://img.shields.io/badge/Instagram%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>
 </a>
